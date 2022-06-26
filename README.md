@@ -37,5 +37,8 @@ Be sure that the gimmick of the account and the time in time.sleep is fit to you
 
 ---
 
+# IMPORTANT
+To keep the bot running continuously without keeping a machine on forever, your cheapest alternatives would likely be a <a href="https://www.raspberrypi.org/">Raspberry Pi</a>, <a href="https://cloud.google.com/storage">Google Cloud Storage</a>, or some sort of Virtual Machine, which can be found on <a href="https://aws.amazon.com/">AWS</a>. <a href="https://www.heroku.com/">Heroku</a> is also a good alternative, depending on your preference.
+
 ## Licensing
 This Twitter Bot is <a href="https://github.com/peacekeeper6/Twitter-Bot/blob/main/LICENSE">MIT Licensed.</a>
