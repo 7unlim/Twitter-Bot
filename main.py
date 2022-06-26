@@ -26,4 +26,4 @@ while True:
     if __name__ =='__main__':
             api=api()
             tweet(api, message + " " + "is a work of art.") #to add image simply add parameter here
-            time.sleep(10)
+            time.sleep(1800)
