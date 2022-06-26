@@ -41,7 +41,7 @@ Be sure that the gimmick of the account and the time in time.sleep is fit to you
 ---
 
 # IMPORTANT
-### To keep the bot running continuously without keeping a machine on forever, you need access to a cloud service or virtual machine.
+### To keep the bot running continuously without keeping a machine on forever, you need access to a cloud service or a machine that will run forever like a Raspberry Pi or a Virtual Machine.
 Pick your preference and enjoy!
 
 ## Licensing
