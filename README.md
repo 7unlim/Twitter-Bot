@@ -30,12 +30,11 @@ pip install tweepy
 
 for the respective modules. 
 
----
-
 To run:
 ```
 python main.py
 ```
+---
 ### After that, you should be good to go! 
 Be sure that the gimmick of the account and the time in time.sleep is fit to your liking as well.
 
