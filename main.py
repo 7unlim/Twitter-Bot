@@ -17,7 +17,7 @@ while True:
     for message in list: 
         def tweet(api: tweepy.API, message:str, image_path=None):
             if image_path:
-                api.update_status_with_media(message, image_path) 
+                api.update_status_with_media(message, image_path)
             else: 
                 api.update_status(message)
 
@@ -25,5 +25,5 @@ while True:
 
     if __name__ =='__main__':
             api=api()
-            tweet(api, message + " " + "is a work of art.") #to add image simply add parameter here
-            time.sleep(1800)
+            tweet(api, message)
+            time.sleep(10)
